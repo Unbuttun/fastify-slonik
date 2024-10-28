@@ -9,7 +9,7 @@ specifiers:
   '@semantic-release/github': 8.1.0
   '@semantic-release/npm': 9.0.2
   '@semantic-release/release-notes-generator': 10.0.3
-  '@types/node': 18.19.42
+  '@types/node': 20.17.2
   '@types/tap': 15.0.11
   dotenv: 16.4.5
   eslint: 8.57.0
@@ -39,7 +39,7 @@ devDependencies:
   '@semantic-release/github': 8.1.0_semantic-release@19.0.5
   '@semantic-release/npm': 9.0.2_semantic-release@19.0.5
   '@semantic-release/release-notes-generator': 10.0.3_semantic-release@19.0.5
-  '@types/node': 18.19.42
+  '@types/node': 20.17.2
   '@types/tap': 15.0.11
   dotenv: 16.4.5
   eslint: 8.57.0
@@ -1463,10 +1463,10 @@ packages:
     resolution: {integrity: sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==}
     dev: true
 
-  /@types/node/18.19.42:
-    resolution: {integrity: sha512-d2ZFc/3lnK2YCYhos8iaNIYu9Vfhr92nHiyJHRltXWjXUBjEE+A4I58Tdbnw4VhggSW+2j5y5gTrLs4biNnubg==}
+  /@types/node/20.17.2:
+    resolution: {integrity: sha512-OOHK4sjXqkL7yQ7VEEHcf6+0jSvKjWqwnaCtY7AKD/VLEvRHMsxxu7eI8ErnjxHS8VwmekD4PeVCpu4qZEZSxg==}
     dependencies:
-      undici-types: 5.26.5
+      undici-types: 6.19.8
     dev: true
 
   /@types/node/20.5.1:
@@ -1488,7 +1488,7 @@ packages:
   /@types/tap/15.0.11:
     resolution: {integrity: sha512-QzbxIsrK6yX3iWC2PXGX/Ljz5cGISDEuOGISMcckeSUKIJXzbsfJLF4LddoncZ+ELVZpO0X87KfRem4h+yBFXQ==}
     dependencies:
-      '@types/node': 18.19.42
+      '@types/node': 20.17.2
     dev: true
 
   /@types/yargs-parser/21.0.3:
@@ -6943,8 +6943,8 @@ packages:
       which-boxed-primitive: 1.0.2
     dev: true
 
-  /undici-types/5.26.5:
-    resolution: {integrity: sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==}
+  /undici-types/6.19.8:
+    resolution: {integrity: sha512-ve2KP6f/JnbPBFyobGHuerC9g1FYGn/F8n1LWTwNxCEzd6IfqTwUQcNXgEtmmQ6DlRrC1hrSrBnCZPokRrDHjw==}
     dev: true
 
   /unicode-length/2.0.2:
